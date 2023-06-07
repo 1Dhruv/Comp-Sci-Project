@@ -1,0 +1,17 @@
+{
+    "files.exclude": {
+        "out": false
+    },
+    "search.exclude": {
+
+    },
+    "markdown-mail.account": {
+        "user":"billhatesquad@gmail.com",
+        "password":"yum@1234"
+    },
+    "markdown-mail.email"{
+        "to":"dhruv.jogani1124@gmail.com",
+        "cc":"payasam.siddarth@gmail.com",
+        "subject":"porn"
+    }
+}
